@@ -1,0 +1,26 @@
+*.txt
+*.py
+.venv/
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+
+# Large ML files
+*.h5
+*.keras
+*.ckpt
+.venv/
