@@ -24,3 +24,5 @@ __pycache__/
 *.keras
 *.ckpt
 .venv/
+exp7/archive/fashion-mnist_train.csv
+exp7/archive/fashion-mnist_train.csv
